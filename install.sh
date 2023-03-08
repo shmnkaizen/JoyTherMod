@@ -126,8 +126,7 @@ print_modname() {
   ui_print "   JoyTherMod by shmnkaizen.    "
   ui_print "*******************************"
   sleep 1
-  ui_print "   Feel the True Performance of   "
-  ui_print "   Qualcomm Snapdragon 720G       "
+  ui_print "   Feel the True Performance of Qualcomm Snapdragon 720G    "
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
